@@ -6,6 +6,7 @@
 ![iOS Builds](https://github.com/alessandrofama/wwise-godot-integration/workflows/iOS%20Builds/badge.svg)
 ![Integration App Windows](https://github.com/alessandrofama/wwise-godot-integration/workflows/Integration%20App%20Windows/badge.svg)
 ![Integration App macOS](https://github.com/alessandrofama/wwise-godot-integration/workflows/Integration%20App%20macOS/badge.svg)
+.
 
 [![Wwise logo](/wwise-logo.png)](https://www.audiokinetic.com/products/wwise/)
 [![Godot Engine logo](/godot-logo.png)](https://godotengine.org)
